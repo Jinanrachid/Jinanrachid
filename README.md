@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinan Rachid</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate AI Engineer</h3>
 
 - 📫 How to reach me **jinanrachid@gmail.com**
 
